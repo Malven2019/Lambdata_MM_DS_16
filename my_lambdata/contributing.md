@@ -1,6 +1,8 @@
 # Contributor's Guide
 
-command-line:
+# Installation
+
+Git clone and navigate to the repo from your command-line:
 
 ```sh
 git clone REMOTE_ADDRESS
