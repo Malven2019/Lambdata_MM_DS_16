@@ -2,15 +2,21 @@
 
 ## Installation
 
-TODO
+```sh
+pip install_______
+```
 
 ##Usage
 
+```py
+from my_lambdata.my_mod import enlarge
 
+print(enlarge(8))
+```
 TODO
-'''py
+```py
 # todo
-'''
+```
 
 
 <hr>
